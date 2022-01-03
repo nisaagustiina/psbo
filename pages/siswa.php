@@ -41,7 +41,6 @@
                               <th>Asal Sekolah</th>
                               <th>Nilai Ijazah</th>
                               <th>File Ijazah</th>
-                              <th>Status</th>
                           </tr>
                           </thead>
                           <tbody>
@@ -61,7 +60,6 @@
                               <td><?= $data['asalSekolah']?></td>
                               <td><?= $data['nilaiIjazah']?></td>
                               <td><?= $data['file']?></td>
-                              <td><?= $data['status']?></td>
                           </tr>
                           <?php $no++;
                           }

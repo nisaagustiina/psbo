@@ -19,11 +19,8 @@ if($_SESSION['level']==""){
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
-<<<<<<< HEAD
-   <nav class="main-header navbar navbar-expand navbar-white navbar-light">
-=======
-	<nav class="main-header navbar navbar-expand navbar-white navbar-light">
->>>>>>> bbdf72f8cbd79339a7a80bf1c0863d255f6cc262
+  <nav class="main-header navbar navbar-expand navbar-white navbar-light">
+    <!-- Left navbar links -->
     <ul class="navbar-nav">
       <li class="nav-item">
         <a class="nav-link" data-widget="pushmenu" href="#"><i class="fas fa-bars"></i></a>
